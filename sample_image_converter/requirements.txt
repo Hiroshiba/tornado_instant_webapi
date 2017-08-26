@@ -1,0 +1,3 @@
+git+https://github.com/Hiroshiba/tornado_instant_webapi
+requests
+Pillow
